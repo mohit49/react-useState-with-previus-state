@@ -1,3 +1,3 @@
-# react-vkjcze
+# react-useState with prev state
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-vkjcze)
+Using use state hook i created counter with increase , decrease, reset and increase by Five.
